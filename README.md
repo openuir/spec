@@ -1,4 +1,4 @@
-# OpenUIR – Open UI Runtime
+# OpenUIR – Open UI Representation
 
 OpenUIR is an **open standard for UI instructions** between a producer (application logic) and a backend (rendering engine).  
 It defines a **platform-agnostic, multi-language retained UI model** that can be implemented on web, desktop, and mobile platforms.
@@ -11,7 +11,7 @@ OpenUIR allows developers to:
 
 - Separate application logic from rendering
 - Build declarative, retained-mode UI trees
-- Implement backends in different languages (e.g., HTML/Lit, SwiftUI, GTK)
+- Implement backends in different languages and frameworks (e.g., HTML/Lit, SwiftUI, GTK)
 - Support consistent layout, styles, and events across platforms
 
 ---
